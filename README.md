@@ -1,2 +1,16 @@
-# PRODIGY_CyberSecurity_03
-A simple and beginner-friendly Python CLI tool that checks the strength of a password based on its length, use of uppercase/lowercase letters, numbers, and special characters. Provides real-time feedback to help users improve their password security.
+
+# 🔐 Password Strength Checker
+
+A simple Python command-line tool to check the strength of a password based on:
+
+- Length (minimum 8 characters)
+- Presence of uppercase and lowercase letters
+- At least one digit
+- At least one special character
+
+## 🚀 How to Run
+
+Make sure Python is installed on your system. Then run:
+
+```bash
+python password_checker.py
